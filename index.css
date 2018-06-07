@@ -1,0 +1,43 @@
+
+        body{ 
+            background-image:url("/home/mafafa/workspace/Random Quote Machine /img/6320.jpg");
+            
+            background-repeat: no-repeat;
+            background-size: auto;
+            background-position: center;
+        }
+       #box1{
+          align-content: center; 
+          padding:50px 20px 15px 20px;  
+       }
+       h1{
+           text-align: center;
+       }
+       .wrapper{
+           text-align: center;
+       }
+       #request{
+        
+        display: inline-block; 
+        width: 30%; 
+        border-radius: 10px; 
+        border: none; 
+        color: aliceblue; 
+        background-color: #d6a844;
+    }
+    #request:hover {
+        opacity: 0.85;
+      }
+     
+    /** we can also style inside of js
+      #message {
+ 
+  font-style: italic;} **/
+
+  
+ 
+  .share {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
